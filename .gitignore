@@ -1,0 +1,10 @@
+new.notes
+output.txt
+*.pyc
+.DS_Store
+.idea
+*.dat
+runAll.txt
+output.csv
+labeled_output.csv
+*.midi
